@@ -14,6 +14,7 @@ A simple web animation demonstrating CSS animation techniques.
 * Rotating wheel animation
 
 **Screenshots**
+
 <img width="576" alt="Screenshot 2024-03-26 at 7 32 30 AM" src="https://github.com/Hillaryx1/Hillary-s-Car-Animation-Project/assets/160623507/bc65afcc-4bd5-4321-8340-d9caafea3308">
 
 

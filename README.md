@@ -1,6 +1,6 @@
 ## Car Animation Project
 
-A simple web animation demonstrating CSS animation techniques.  
+A quick web animation demonstrating CSS animation techniques.  
 
 **Technologies:** HTML & CSS
 
